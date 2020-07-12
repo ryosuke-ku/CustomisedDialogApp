@@ -1,0 +1,28 @@
+<resources>
+    <!-- 文字サイズ（小） -->
+    <dimen name="sp_s">16sp</dimen>
+    <!-- 文字サイズ（中） -->
+    <dimen name="sp_m">20sp</dimen>
+    <!-- 文字サイズ（大） -->
+    <dimen name="sp_l">24sp</dimen>
+    <!-- 余白などのサイズ（小） -->
+    <dimen name="dp_s">1dp</dimen>
+    <!-- 余白などのサイズ（中） -->
+    <dimen name="dp_m">4dp</dimen>
+    <!-- 余白などのサイズ（大） -->
+    <dimen name="dp_l">8dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- text size-->
+    <dimen name="text_size_very_small">12dp</dimen>
+    <dimen name="text_size_small">15dp</dimen>
+    <dimen name="text_size_medium">17dp</dimen>
+    <dimen name="text_size_large">19dp</dimen>
+    <dimen name="text_size_xlarge">21dp</dimen>
+
+    <dimen name="linking_button_small_height">38dp</dimen>
+    <dimen name="linking_button_middle_height">48dp</dimen>
+    <dimen name="linking_button_big_height">100dp</dimen>
+</resources>

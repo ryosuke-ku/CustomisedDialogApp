@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <!-- ボタン通常時 -->
+    <color name="button1">#404040</color>
+    <!-- ボタン押下時 -->
+    <color name="button2">#808080</color>
+    <!-- ボタン選択不可 -->
+    <color name="button3">#b0b0b0</color>
+    <!-- dialog背景色 -->
+    <color name="dialog_background">#202020</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorItemBackground">#fbfbfb</color>
+    <color name="colorBackground">#d9d9d9</color>
+
+    <color name="colorPrimaryGray">#3C4F5E</color>
+    <color name="colorSecondaryGray">#6C7B8A</color>
+    <color name="colorTertiaryGray">#636363</color>
+
+    <color name="colorFontGreen">#358300</color>
+    <color name="colorFontRed">#E53935</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="line_color">#808080</color>
 </resources>

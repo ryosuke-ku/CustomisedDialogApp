@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">CustomisedDialogApp</string>
+    <string name="app_name">Sample</string>
+    <string name="open_dialog">ダイアログを開く</string>
+    <string name="err_msg">1,000,000,000以上は入力できません。</string>
+    <string name="ok">○</string>
+    <string name="close">×</string>
+    <string name="no0">0</string>
+    <string name="no1">1</string>
+    <string name="no2">2</string>
+    <string name="no3">3</string>
+    <string name="no4">4</string>
+    <string name="no5">5</string>
+    <string name="no6">6</string>
+    <string name="no7">7</string>
+    <string name="no8">8</string>
+    <string name="no9">9</string>
+    <string name="clear">C</string>
+
+    <string name="cancel_btn">キャンセル</string>
+    <string name="update_btn">更新</string>
+    <string name="dialog_regist_title2">登録名 : </string>
+    <string name="add_btn">追加</string>
+
+
 </resources>
